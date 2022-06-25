@@ -16,5 +16,5 @@ Com base no código-fonte desenvolvido durante a aula, complementar as seguintes
 
 Enviar um notebook Python em um repositório no GitHub contendo:
 
-  Imprimir o vocabulário de palavras de todo o corpus de tweets;
-  A impressão do Dataframe de tweets após todo o pré-processamento.
+--Imprimir o vocabulário de palavras de todo o corpus de tweets;
+--A impressão do Dataframe de tweets após todo o pré-processamento.
